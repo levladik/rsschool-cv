@@ -3,8 +3,11 @@
 ---
 
 **Phone:** +374 96 88 90 02
+
 **Email:** vladislavtyshenko@yandex.ru
+
 **Telegram:** @levladik
+
 **Discord:** Vlad (@levladik)
 
 ---
