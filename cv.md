@@ -40,9 +40,9 @@ function sum(a, b) {
 
 ### Courses:
 
-[Stepik (HTML/CSS)](https://stepik.org/)
-[Codeacademy (JavaScrpt)](https://www.codecademy.com)
-[w3schools (HTML/CSS, JavaScript)](https://w3schools.com)
+*[Stepik (HTML/CSS)](https://stepik.org/)
+*[Codeacademy (JavaScrpt)](https://www.codecademy.com)
+*[w3schools (HTML/CSS, JavaScript)](https://w3schools.com)
 
 ---
 
